@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "authors": [
+    "Cubereactor"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~1.12.4",
+    "bootstrap-sass": "~3.3.7",
+    "purecss-sass": "^0.6.2"
+  }
+}

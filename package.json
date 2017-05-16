@@ -1,0 +1,24 @@
+{
+  "name": "Gulp-Worker",
+  "version": "1.5.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Quade",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.10.0",
+    "del": "^2.1.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean-css": "^3.3.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.1.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.1"
+  }
+}
