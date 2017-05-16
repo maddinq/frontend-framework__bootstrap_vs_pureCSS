@@ -5,12 +5,20 @@ generate two sites to compare there performance and load size.
 ### Site 2 - PureCSS
 /index-pure.html
 
-## install all packages
+## Install
+```sh
 npm install
 bower install
+```
+Make sure that bower and npm are installed on your system.
+##Usage
 
-// run watcher
+#### run watcher
+```sh
 gulp
+```
 
-// run builder (with minify)
+#### run builder (with minify)
+```sh
 gulp build
+```
